@@ -1,4 +1,4 @@
-# EmotionDetection
+# emotion_detection
 Realtime Emotion Detection Using The Keras Framework
 
 No aspect of our mental life is more important to the quality and meaning of our existence than the emotions. And being able to gauge the emotion of a subject using a self learning algorithm has been hotly chased for by several billion dollar fortune 500 companies for the past two decades. The real world applications of this technology include helping law enforcement, crowd control, advertising, etc. Emotion being a subjective thing, employing knowledge and science behind a set of labeled data and extracting the components that constitute it,is a challenging proposition. Gestures, actions, postures, behaviour, face jargon and vocalizations; these are painstaking as a standard that convey emotions of individual beings. 
@@ -48,6 +48,3 @@ The program will take in a live webcam feed of our subject and will, in realtime
 ![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/save_webcam_image.png?raw=true)
 ## Example of saved screenshot-
 ![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/example_screenshot.png?raw=true)
-
-
-Project partner: github.com/akaashnidhiss
